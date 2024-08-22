@@ -1,7 +1,7 @@
 ## Hola, mi nombre es Luis Enrique Jiménez 👋
 
 ## Mis estádisticas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljimeneztkio)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljimeneztkio)]
 
 Bienvenido a mi perfil de colaborador en la empresa de KIO NETWORKS, una importante empresa de técnología con sedes en toda America Látina.
 
