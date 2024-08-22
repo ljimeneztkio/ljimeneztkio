@@ -5,8 +5,8 @@ Bienvenido a mi perfil de colaborador en la empresa de KIO NETWORKS, una importa
 Actualmente soy Consultor Técnico y Funcional dentro de una de las direcciones que tiene esta empresa, por lo que desarrollar e implementar funciones y la atención a cliente es parte de mi día a día 👨‍💻
 
 ## Mis estádisticas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljimeneztkio&show_icons=true&theme=cobalt)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljimeneztkio&theme=cobalt)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljimeneztkio&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljimeneztkio&theme=cobalt)
 
 Mi fuerte es el Desarrollo Web y tengo experiencia como FullStack gracias a mi participación adquirida en una gran cantidad de proyectos.
 
