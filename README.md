@@ -1,13 +1,15 @@
 ## Hola, mi nombre es Luis Enrique Jiménez 👋
 
-## Mis estádisticas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljimeneztkio)]
-
 Bienvenido a mi perfil de colaborador en la empresa de KIO NETWORKS, una importante empresa de técnología con sedes en toda America Látina.
 
 Actualmente soy Consultor Técnico y Funcional dentro de una de las direcciones que tiene esta empresa, por lo que desarrollar e implementar funciones y la atención a cliente es parte de mi día a día 👨‍💻
 
+## Mis estádisticas
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljimeneztkio)]
+
 Mi fuerte es el Desarrollo Web y tengo experiencia como FullStack gracias a mi participación adquirida en una gran cantidad de proyectos.
+
+
 
 Las técnologias con las que puedo colaborarte son las siguientes:
 
