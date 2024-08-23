@@ -11,6 +11,8 @@ Actualmente soy Consultor Técnico y Funcional dentro de una de las direcciones 
 Mi fuerte es el Desarrollo Web y tengo experiencia como FullStack gracias a mi participación adquirida en una gran cantidad de proyectos.
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/adidas.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/php.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/phpmyadmin.svg" />
 
 
 Las técnologias con las que puedo colaborarte son las siguientes:
